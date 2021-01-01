@@ -1,0 +1,9 @@
+[Main myRIO 1900 [3008CB90]
+Main myRIO 1900 [3008CB90] = "172.16.0.1"
+
+[Main myRIO 1900 [3008CB90]]
+Main myRIO 1900 [3008CB90] = "172.16.0.1"
+
+[My Computer]
+My Computer = "192.168.1.12"
+
