@@ -2,10 +2,11 @@
 
 This repository hosts all the code for the project Recon Rover, original as it was in October, 2017. Here is a brief overview of the files, folders, and structure of the project. Please note that you will likely not be able to execute majority of the files without access to the exact robot with the myRIO.
 
-Further documentation: https://1drv.ms/u/s!AhvYTx1TK8P7sWQ7JIN1BXc_EMot?e=fn3olI
-Times of India coverage: https://timesofindia.indiatimes.com/city/bengaluru/students-create-robot-to-help-rescue-workers-trapped-at-disaster-sites/articleshow/56194275.cms
-CIOL Magazine coverage: http://www.ciol.com/bangalore-class-viii-students-build-a-multi-purpose-robot-with-national-instruments-system-design-platform/
-Presentation on YouTube (Juniper Networks): https://youtu.be/VCn6GWzmbdU
+## Further details
+* Further documentation: https://1drv.ms/u/s!AhvYTx1TK8P7sWQ7JIN1BXc_EMot?e=fn3olI
+* Times of India coverage: https://timesofindia.indiatimes.com/city/bengaluru/students-create-robot-to-help-rescue-workers-trapped-at-disaster-sites/articleshow/56194275.cms
+* CIOL Magazine coverage: http://www.ciol.com/bangalore-class-viii-students-build-a-multi-purpose-robot-with-national-instruments-system-design-platform/
+* Presentation on YouTube (Juniper Networks): https://youtu.be/VCn6GWzmbdU
 
 
 ## Overall structure
