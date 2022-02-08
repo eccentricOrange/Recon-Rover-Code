@@ -2,6 +2,8 @@
 
 This repository hosts all the code for the project Recon Rover, original as it was in October, 2017. Here is a brief overview of the files, folders, and structure of the project. Please note that you will likely not be able to execute majority of the files without access to the exact robot with the myRIO.
 
+Further documentation: https://1drv.ms/u/s!AhvYTx1TK8P7sWQ7JIN1BXc_EMot?e=fn3olI
+
 
 ## Overall structure
 * The LabVIEW project `Recon Rover.lvproj` is the place to start if you want to access the files.
